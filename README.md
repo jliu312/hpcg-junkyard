@@ -1,6 +1,8 @@
-Forked for use on the Junkyard Computing Project
+#Forked for use on the Junkyard Computing Project
 
 Run `bash runHPCG.sh x y` where x is the number of threads and y is the number of processes
+
+_________________
 
 ########################################################
 # High Performance Conjugate Gradient Benchmark (HPCG) #
